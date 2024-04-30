@@ -1,0 +1,64 @@
+.title
+    {
+        color: white;
+        min-height: 360px;
+        background-color: rgb(44, 44, 217);
+    }
+.image1
+    {
+        width: 45%;
+        border-radius: 50%;
+    }
+.image2
+    {
+        height: 480px;
+        width: 90%;
+        border-radius: 5%;
+    }
+.pill_percentage
+    {
+
+        color: white;
+        height: 20px;
+        background-color: rgb(44, 44, 217);
+    }
+
+.sub_head
+    {
+        color: rgb(44, 44, 217);
+        text-align: center;
+    }
+
+
+.contact
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+.card_img
+    {
+        height: 250px;
+    }
+.card
+    {
+        width: 100%;
+    }
+.parent
+    {
+        width: 100%;
+        min-height: 300px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+    }
+.footer
+    {
+        background-color: rgb(44, 44, 217);
+        height: 150px;
+        text-align: center;
+    }
+.footer .logo
+    {
+        color: white;
+    }
